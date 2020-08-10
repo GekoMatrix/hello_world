@@ -1,2 +1,4 @@
 # hello_world
-Reposiotio de pruebas
+Repositorio de pruebas
+Manejo de github y otras estructuras
+
