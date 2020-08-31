@@ -1,1 +1,4 @@
-archivos de pruebas
+a,b =input("Ingrese dos valores: ").split(",")
+print("El primer número es {} y el segundo número es {}".format(a,b))
+print()
+
